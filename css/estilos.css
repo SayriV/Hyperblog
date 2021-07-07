@@ -32,5 +32,11 @@ body
     font-weight: normal;
     font-size: 1em;
     padding: 0 0 0 1em;
+}	
 
+#footer
+{
+background: #777;
+color: white;
+text-align: center;
 }
