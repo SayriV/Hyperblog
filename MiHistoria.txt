@@ -2,6 +2,8 @@ Nombre Elizabbeth Sarai
 Apellidos Villagomez Alba
 Edad 21
 Color fav Azul
+el color fav de Elizabeth es verde, yoy soy Eli me estoy uniendo a este proyecto open source.
+	  
 
 
 yo soy elizabeth, me acabo de unir a este repositorio
